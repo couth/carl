@@ -1,0 +1,21 @@
+{
+    "name": "carl/helpers",
+    "description": "Carl Liu's helper classes.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carl Liu",
+            "email": "coolboy@outlook.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Carl\\Helpers\\": "src"
+        }
+    }
+}
