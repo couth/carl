@@ -1,8 +1,8 @@
 <?php
-namespace \libraries;
+namespace Cool\Helpers;
 
 /**
- * Class YuncaiHelper 助手类，依赖于Yii2框架
+ * Class CarlHelper 助手类，依赖于Yii2框架
  *
  * @package common\libraries
  */
